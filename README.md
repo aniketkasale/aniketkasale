@@ -63,12 +63,13 @@
   <a href="https://ant.design/">
     <img alt="ANTD" height='50' src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+  <br/>
+<br/>
   <a href="https://www.docker.com/">
     <img alt="Docker" height='50' src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"/> 
   </a>
-<br/>
-<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/">
     <img alt="firebase" height='50' src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/> 
   </a>
