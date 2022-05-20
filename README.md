@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/prakash-naikwadi-6b9a60182/" target="_blank"> Aniket Kasale</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/aniket-kasale/" target="_blank"> Aniket Kasale</a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+HTML+CSS+JavaScript%3A)" /> </h3>
 
 - 🔭 I’m currently working on Decentralized Application
