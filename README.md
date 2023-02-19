@@ -98,8 +98,4 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkasale&show_icons=true&theme=dark&locale=en&layout=compact" alt="aniketkasale" /></td>
   </tr>
 </table>
-<br/>
-<br/>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkasale&theme=dark" alt="aniketkasale" /></p>
-  </div>
+
