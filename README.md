@@ -35,22 +35,13 @@
   <a href="https://reactjs.org/">
   <img alt="React" height='50' src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org/en/">
-    <img alt="Node Js" height='50' src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/> 
-  </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/">
     <img alt="Next Js" height='50' src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png"/> 
   </a>     
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713423&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQL4ZKmXlvz1fA_pXpfftPFKHotgAC5Jwlt17Bib07jISWo7czmopqEaAjCYEALw_wcB">
-    <img alt="Mongo DB" height='50' src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/> 
-  </a>     
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nestjs.com/">
-    <img alt="NEST JS" height='50' src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"/> 
-  </a> 
+
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/">
     <img alt="Tailwind CSS" height='50' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/> 
@@ -66,25 +57,17 @@
  
   <br/>
 <br/>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" height='50' src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"/> 
-  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
   <a href="https://firebase.google.com/">
     <img alt="firebase" height='50' src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.soliditylang.org/en">
-    <img alt="solidity" height='50' src="https://docs.soliditylang.org/en/v0.8.14/_static/logo.svg"/> 
-  </a>
+
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://trufflesuite.com/">
     <img alt="trufflesuite" height='50' src="https://trufflesuite.com/assets/logo.png"/> 
   </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://metamask.io/">
-    <img alt="MetaMask" height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/512px-MetaMask_Fox.svg.png?20201112074605"/> 
-  </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://decentraland.org/">
     <img alt="Decentraland SDK" height='50' src="https://cdn-icons-png.flaticon.com/512/4843/4843091.png"/> 
