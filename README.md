@@ -35,13 +35,10 @@
   <a href="https://reactjs.org/">
   <img alt="React" height='50' src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/> 
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/">
     <img alt="Next Js" height='50' src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png"/> 
   </a>     
-
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/">
     <img alt="Tailwind CSS" height='50' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/> 
@@ -54,21 +51,9 @@
   <a href="https://ant.design/">
     <img alt="ANTD" height='50' src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"/> 
   </a>
- 
-  <br/>
-<br/>
-
-
   <a href="https://firebase.google.com/">
     <img alt="firebase" height='50' src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/> 
   </a>
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://trufflesuite.com/">
-    <img alt="trufflesuite" height='50' src="https://trufflesuite.com/assets/logo.png"/> 
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://decentraland.org/">
     <img alt="Decentraland SDK" height='50' src="https://cdn-icons-png.flaticon.com/512/4843/4843091.png"/> 
   </a>
