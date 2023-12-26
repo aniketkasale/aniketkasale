@@ -2,8 +2,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/aniket-kasale/" target="_blank"> Aniket Kasale</a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+HTML+CSS+JavaScript%3A)" /> </h3>
 
-- 🔭 I’m currently working on Fullstack Web Applications, Metaverse and blockchain.
-- 🌱 I’m currently learning Web3 and also furnishing my web developement skills.
+- 🔭 Experienced software developer with expertise in modern web technologies such as React, Tailwind, Next.js, and Firebase.
+- 🌱 Skilled in developing innovative, user-centric web applications that meet clients' requirements.
+- 👨‍💻 Committed to creating efficient and effective solutions that bring clients' ideas to life.
 - 👯 I’m looking to collaborate on freelance projects or open-source.
 - 💬 Ask me about Web Developement
 - 😄 Pronouns: He/His
