@@ -32,9 +32,17 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img alt="JavaScript" height='50' src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> 
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/TypeScript">
+    <img alt="JavaScript" height='50' src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/> 
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/">
   <img alt="React" height='50' src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/> 
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://redux-toolkit.js.org/">
+  <img alt="React" height='50' src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/">
