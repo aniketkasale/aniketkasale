@@ -22,15 +22,15 @@
 <h3 align="left">Tech Stack :</h3>
 <div>
   <a href="https://en.wikipedia.org/wiki/HTML">
-    <img alt="HTML5" height='50' src="https://cdn-icons.flaticon.com/png/512/186/premium/186320.png?token=exp=1653015615~hmac=991b8219ba67fb8370ca1e50df107c92"/>
+    <img alt="HTML5" height='50' src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/CSS">
-    <img alt="CSS3" height='50' src="https://cdn-icons.flaticon.com/png/512/802/premium/802251.png?token=exp=1653015633~hmac=b53035de533f60b79d8adb8490a8c032"/> 
+    <img alt="CSS3" height='50' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img alt="JavaScript" height='50' src="https://cdn-icons.flaticon.com/png/512/4726/premium/4726005.png?token=exp=1653015661~hmac=8e3efca3933d08f89691206d619b15a4"/> 
+    <img alt="JavaScript" height='50' src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/">
